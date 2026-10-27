@@ -1,4 +1,0 @@
-Student-style plain JavaScript. Next.js static export, AWS Lambda (Node 20, SDK v3), DynamoDB, S3.
-Simple names, few comments, no over-engineering, no extra libraries.
-Do one task at a time. Never put AWS keys in code. Lambda uses its IAM role.
-Do not rewrite files I did not mention. Change only what I ask.
